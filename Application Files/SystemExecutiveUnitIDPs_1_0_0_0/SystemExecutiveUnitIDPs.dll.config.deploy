@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-	<connectionStrings>
-		<add name="connection_To_db_SystemExecutiveUnitIDPs"
-			 connectionString="Server=62.84.181.206;Port=3306;Database=db_system_executive_unit_idps;Uid=reayidh_system_executive_unit_idps;Pwd=Reayidh@Root@123abcdefasq;CharSet=utf8;"
-			 providerName="MySql.Data.MySqlClient" />
-	</connectionStrings>
-</configuration>
