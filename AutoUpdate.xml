@@ -2,7 +2,7 @@
 <item>
     <version>1.0.0.66</version>
     <!-- رابط API لتحميل ملف التثبيت المخرّج من Inno Setup -->
-    <url>https://api.github.com/repos/reayidhaa/AccountingSystemRASoft/contents/Setup.exe</url>
+    <url>https://api.github.com/repos/reayidhaa/AccountingSystemRASoft/contents/AccountingSystemRASoft.exe</url>
     <changelog></changelog>
     <mandatory>false</mandatory>
     <!-- وسيطات التثبيت الصامت لبرنامج Inno Setup ليعمل التحديث تلقائياً -->
